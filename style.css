@@ -1,0 +1,15 @@
+.choice{
+    cursor: pointer;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    padding: 20px;
+}
+.score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
